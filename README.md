@@ -7,14 +7,9 @@ Replication dataset for the research paper "A Survey on How Test Flakiness Affec
 
 # Execute notebook
 
-```bash
-virtualenv venv
-source
-```
+Create and activate virtualenv ...
 
-```bash
-```
-
+Install requirements
 ```bash
 pip install -r requirements.txt
 ```
