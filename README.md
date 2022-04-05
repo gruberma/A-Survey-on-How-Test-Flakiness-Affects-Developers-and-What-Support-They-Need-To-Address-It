@@ -19,3 +19,4 @@ Register virtualenv in jupyter ([reference](https://janakiev.com/blog/jupyter-vi
 python -m ipykernel install --user --name=a-survey
 ```
 
+Start jupyter notebook and switch kernel via Kernel -> Change kernel -> a-survey
